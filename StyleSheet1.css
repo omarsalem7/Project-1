@@ -1,0 +1,239 @@
+﻿
+.top {
+  
+    background-color: white;
+}
+
+    .top ul {
+  
+        text-align: right;
+        height: 50px;
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    
+    }
+    .top .ws {
+        padding-top: 10px;
+    }
+
+    .top li {
+        display: inline-block;
+     
+        padding:1px 0 1px 3px;
+        text-transform: uppercase;
+       
+    }
+        .top li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 12px 10px;
+          
+            text-decoration: none;
+            color: black;
+        }
+    .top li:hover {
+        
+    background-color:lightgray;
+    }
+
+.backimage {
+	    margin-top: 45px;
+    height: 540px;
+    background-image: url('img/mac.jpg');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 100px;
+    color: floralwhite;
+    padding-left: 30px;
+    overflow:hidden;
+}
+
+    .backimage .ff {
+    font-size:45px;
+   
+    padding-top:20px;
+    }
+    .backimage .op {
+        padding-top:190px;
+        opacity:0.6;
+
+    }
+
+.cent1 {
+    text-align: center;
+    overflow: hidden;
+    margin-bottom: 70px;
+}
+
+    .cent1 .asd {
+        font-size: 25px;
+    }
+
+.cent2 {
+    text-align: center;
+    overflow: hidden;
+}
+
+.cent3 {
+    background-color: whitesmoke;
+    height: 680px;
+    padding: 150px 30px 150px 20px;
+    overflow: hidden;
+}
+
+    .cent3 .zx {
+        font-family: Candara;
+        font-size: 30px;
+    }
+
+    .cent3 .gh {
+        padding-left: 150px;
+    }
+
+.cent4 {
+    height: 850px;
+    padding-top: 120px;
+    text-align: center;
+    overflow: hidden;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+    .cent4 .fx {
+        margin: 50px;
+    }
+
+    .cent4 .kl {
+        padding-top: 50px;
+        margin-left: -30px;
+        height:auto;
+        overflow:hidden;
+    }
+
+.cent5 {
+    background-color: darkslategray;
+    height: 250px;
+    color: white;
+    padding: 100px 130px 100px 270px;
+    margin-bottom: 150px;
+}
+
+    .cent5 span {
+        font-size: 35px;
+    }
+
+.cent6 {
+    text-align: center;
+    height: 650px;
+}
+
+    .cent6 span {
+        font-size: 25px;
+    }
+
+.cent7 {
+    padding: 60px 20px 40px 20px;
+    height: 340px;
+    background-color: whitesmoke;
+}
+
+    .cent7 span {
+        font-size: 25px;
+    }
+
+.cent8 {
+    background-color: gray;
+    height: 850px;
+    text-align: center;
+    padding: 50px 20px 40px 20px;
+}
+
+    .cent8 .a1 {
+        height: 525px;
+        background-color: white;
+        border: 7px solid gray;
+        margin-top: 20px;
+    }
+
+    .cent8 .b1 {
+        height: 570px;
+        background-color: white;
+        border: 7px solid gray;
+        margin-top: 17px;
+    }
+
+    .cent8 .ssss {
+        text-align: center;
+        height: 70px;
+        padding-top: 20px;
+        background-color: black;
+        margin-bottom: 16px;
+    }
+
+    .cent8 .sss {
+        text-align: center;
+        height: 110px;
+        padding-top: 40px;
+        background-color: #fc4141;
+        margin-bottom: 13px;
+    }
+
+    .cent8 .mm {
+        font-size: 22px;
+    }
+
+    .cent8 .pri {
+        font-size: 25px;
+    }
+
+    .cent8 .ww {
+        height: 15px;
+        background-color: gray;
+    }
+
+    .cent8 p {
+        color: azure;
+    }
+
+    .cent8 .cc {
+        background-color: gainsboro;
+        height: 88px;
+    }
+
+    .cent8 .big {
+        font-size: 30px;
+    }
+
+.cent9 {
+    height: 1800px;
+    background-color: #eaeaea;
+    padding-top: 100px;
+}
+
+    .cent9 p {
+        text-align: center;
+    }
+
+    .cent9 .dd {
+        font-size: 21px;
+    }
+
+    .cent9 .mnb {
+        background-color: black;
+        height: 250px;
+        text-align: center;
+    }
+
+    .cent9 .uu:hover {
+        opacity: 0.6;
+    }
+
+    .cent9 .x:link {
+        color: azure;
+    }
+
+    .cent9 .x:hover {
+        color: red;
+    }
